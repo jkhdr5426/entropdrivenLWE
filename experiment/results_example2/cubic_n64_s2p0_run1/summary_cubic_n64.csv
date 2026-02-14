@@ -1,0 +1,2 @@
+transform,n,q,sigma,trials,honest_dsr,attacker_success_regression,bkw_score,linearization_dim,time_s
+cubic,64,3329,2.0,200,0.815,0.52,0.5,192,0.004887580871582031

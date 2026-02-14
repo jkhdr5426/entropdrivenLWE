@@ -1,0 +1,2 @@
+transform,n,q,sigma,trials,honest_dsr,attacker_success_regression,bkw_score,linearization_dim,time_s
+eo_lwe,32,3329,1.0,200,0.815,0.535,0.5,128,0.0041654109954833984
